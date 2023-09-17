@@ -25,8 +25,8 @@ Our platform offers a valuable solution for managing and tracking cryptocurrency
 
 ## Installation and Setup
 
-1. Clone this repository: `https://github.com/pravinbhagwat/Real-Time-Crypto-Currency-Tracker.git`
-2. Navigate to the project directory: `cd Real-Time-Crypto-Currency-Tracker`
+1. Clone this repository: `https://github.com/sushantwalunj12/Crypto-Tracker.git`
+2. Navigate to the project directory: `cd Crypto-Tracker`
 3. Install project dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open your web browser and visit: `http://localhost:3000`
