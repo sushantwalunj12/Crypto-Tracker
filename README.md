@@ -40,7 +40,7 @@ Our platform offers a valuable solution for managing and tracking cryptocurrency
 
 ## Useful Links
 
-- Project link: https://crypto-tracker-six-hazel.vercel.app/
+- Project link: https://crypto-tracker-sushantwalunj12.vercel.app/
 - Figma design: https://www.figma.com/file/zHjG17R9K9VI61xm7qRa2l?comments-enabled=1
 - Design inspiration: https://dribbble.com/
 - API used: https://www.coingecko.com/en/api/documentation
